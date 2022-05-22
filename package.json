@@ -7,7 +7,7 @@
   "type": "module",
   "main": "./build/worker.js",
   "dependencies": {
-    "@duckdb/duckdb-wasm": "^1.14.3"
+    "@duckdb/duckdb-wasm": "^1.14.4"
   },
   "devDependencies": {
     "esbuild": "^0.14.39",

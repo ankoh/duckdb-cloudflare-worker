@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@duckdb/duckdb-wasm@^1.14.3":
-  version "1.14.3"
-  resolved "https://registry.yarnpkg.com/@duckdb/duckdb-wasm/-/duckdb-wasm-1.14.3.tgz#ed5b28aa99f7aa3e2d71d189d72d4c619ce8f46f"
-  integrity sha512-VyplCVHWTCCFhEvp4BPl3QQCmuLic9D1+uVodyyzUJO/QX4O+cmax4sCHcdcveURf1UQlj5mW6w1MnoB0qw7VQ==
+"@duckdb/duckdb-wasm@^1.14.4":
+  version "1.14.4"
+  resolved "https://registry.yarnpkg.com/@duckdb/duckdb-wasm/-/duckdb-wasm-1.14.4.tgz#805acaf16d62adf9c0d23fa9e6e0a838f15acb71"
+  integrity sha512-MftCJ42GEeM0Hk2QX2QqvhWx9/POjD6gjHnuNfFUPIdfZtybgw71TH0/sB8naVSrSGKHkCdoSh2E40E4gMje/w==
   dependencies:
     apache-arrow "^8.0.0"
 
