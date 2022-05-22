@@ -1,0 +1,20 @@
+{
+  "name": "workertest",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "main": "./build/worker.js",
+  "dependencies": {
+    "@duckdb/duckdb-wasm": "^1.14.3"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.39",
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.6.4",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "wranglerjs-compat-webpack-plugin": "^0.0.5"
+  }
+}

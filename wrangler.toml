@@ -1,0 +1,6 @@
+name = "test"
+type = "javascript"
+workers_dev = true
+compatibility_date = "2022-05-22"
+
+main = "./build/worker.js"

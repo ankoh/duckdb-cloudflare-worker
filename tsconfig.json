@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "outDir": "./build/ts/",
+        "target": "es5",
+        "module": "es2020",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "downlevelIteration": true,
+        "strict": true,
+        "lib": ["es6", "es2020", "dom"]
+    },
+    "exclude": ["./node_modules"],
+    "include": ["./index.ts"]
+}
